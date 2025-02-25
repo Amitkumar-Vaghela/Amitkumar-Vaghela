@@ -1,4 +1,4 @@
-<h3 align="center">A passionate FullStack & MERN Stack Developer and UI/UX Designer from India</h3>
+<h3 align="center" >A passionate FullStack & MERN Stack Developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=amitkumar-vaghela&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -73,6 +73,7 @@
 </p>
 
 ---
+
 
 ### 🔥 Streak & Contributions:
 <p align="center">
